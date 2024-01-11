@@ -1,4 +1,4 @@
-# RNN_practice
+# RNN Practice
 This repository encompasses multiple files utilized for practicing the construction of RNN-based models.
 
 ## [SimpleRNN](SimpleRNN.ipynb)
